@@ -158,7 +158,7 @@ function Qualification() {
                   Emack and Bolios
                 </span>
                 <div className="qualification__calendar">
-                  <i className="uil uil-calendar-alt"></i> Sept 2016 Oct 2022
+                  <i className="uil uil-calendar-alt"></i> Sept 2016 - Oct 2022
                 </div>
               </div>
 
