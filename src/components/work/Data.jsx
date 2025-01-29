@@ -1,6 +1,8 @@
 import Work2 from "../../assets/work2.jpg";
 import Work3 from "../../assets/work3.jpg";
 import BakeryShop from "../../assets/BakeryShop.png";
+import SchoolDBApp from "../../assets/SchoolDBApp.jpg";
+import CitadelOfRick from "../../assets/CitadelOfRick.jpg";
 
 export const projectsData = [
   {
@@ -13,33 +15,35 @@ export const projectsData = [
   },
   {
     id: 2,
-    image: Work2,
-    title: "App movil",
-    category: "app",
-    githubUrl: "",
-    siteUrl: "",
+    image: SchoolDBApp,
+    title: "SchoolDB - CRUD & EJS-Powered",
+    category: "web",
+    githubUrl:
+      "https://github.com/RajeenKhadka/Assignment-SBA-319-MongoDB-Database-Application.git",
+    siteUrl: "https://school-database-app.onrender.com",
   },
   {
     id: 3,
-    image: Work3,
-    title: "Brand design",
-    category: "design",
-    githubUrl: "",
-    siteUrl: "",
+    image: CitadelOfRick,
+    title: "CitadelOfRick - Characters API",
+    category: "web",
+    githubUrl:
+      "https://github.com/RajeenKhadka/SBA320H-ReactWebApplicationProject.git",
+    siteUrl: "https://citadel-of-rick.netlify.app/",
   },
 ];
 
 export const projectNav = [
-  {
-    name: "all",
-  },
-  {
-    name: "web",
-  },
-  {
-    name: "app",
-  },
-  {
-    name: "design",
-  },
+  // {
+  //   name: "all",
+  // },
+  // {
+  //   name: "web",
+  // },
+  // {
+  //   name: "app",
+  // },
+  // {
+  //   name: "design",
+  // },
 ];
