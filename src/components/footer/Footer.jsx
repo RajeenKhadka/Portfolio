@@ -10,6 +10,8 @@ function Footer() {
             <a
               className="footer__social-link"
               href="https://github.com/RajeenKhadka"
+              target="_blank"
+              rel="noopener noreferrer"
             >
               <div className="icon">
                 <i className="fa fa-github"></i>
@@ -21,6 +23,8 @@ function Footer() {
             <a
               className="footer__social-link"
               href="https://www.linkedin.com/in/rajeen315/"
+              target="_blank"
+              rel="noopener noreferrer"
             >
               <div className="icon">
                 <i className="fa fa-linkedin"></i>
@@ -32,6 +36,8 @@ function Footer() {
             <a
               className="footer__social-link"
               href="https://www.facebook.com/rajeen.khadka.31"
+              target="_blank"
+              rel="noopener noreferrer"
             >
               <div className="icon">
                 <i className="fa fa-facebook"></i>
@@ -43,6 +49,8 @@ function Footer() {
             <a
               className="footer__social-link"
               href="https://www.instagram.com/rajeenkhadka/"
+              target="_blank"
+              rel="noopener noreferrer"
             >
               <div className="icon">
                 <i className="fa fa-instagram"></i>

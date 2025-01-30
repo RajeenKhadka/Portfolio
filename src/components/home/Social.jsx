@@ -4,17 +4,19 @@ function Social() {
       <a
         href="https://www.instagram.com/rajeenkhadka/"
         className="home__social-icon"
-        targer="_blank"
+        target="_blank"
+        rel="noopener noreferrer"
       >
-        <i class="uil uil-instagram"></i>
+        <i className="uil uil-instagram"></i>
       </a>
 
       <a
         href="https://github.com/RajeenKhadka"
         className="home__social-icon"
-        targer="_blank"
+        target="_blank"
+        rel="noopener noreferrer"
       >
-        <i class="uil uil-github-alt"></i>
+        <i className="uil uil-github-alt"></i>
       </a>
     </div>
   );
